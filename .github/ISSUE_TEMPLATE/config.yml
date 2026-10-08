@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: EasyMerge documentation
+    url: https://easymerge.dev/docs/overview/introduction
+    about: Read installation and product documentation.
+  - name: EasyMerge support
+    url: https://easymerge.dev/docs/guides/support
+    about: Contact the EasyMerge support team for account or private support requests.

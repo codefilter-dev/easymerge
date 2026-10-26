@@ -1,5 +1,6 @@
 # Changelog
 
-EasyMerge release notes are published on the [public changelog](https://easymerge.dev/changelog/).
-
-Follow that page for new features, improvements, and fixes.
+This repository does not duplicate product release notes. The complete,
+chronological release history is maintained in the
+[EasyMerge public changelog](https://easymerge.dev/changelog/), including new
+features, improvements, and fixes.
